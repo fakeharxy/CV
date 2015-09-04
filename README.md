@@ -1,6 +1,6 @@
 ## Paul Harker
 
-Technical Writer turned coder. 7 years experience writing customer-facing software documentation and developer-facing API and integration guides, 12 weeks' experience developing programs and skills with Makers Academy.
+Technical Writer turned coder. 7 years experience writing customer-facing software documentation and developer-facing API and integration guides, 12 weeks' experience (and counting) developing programs and skills with Makers Academy.
 
 ## Skills
 
