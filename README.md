@@ -32,7 +32,7 @@ Having used a multitude of technologies to create technical documentation, I hav
 
 #### University of East Anglia (2003 to September 2006)
 
-- English and American Literature
+- English and American Literature, BA
 
 #### Culford School, Bury St. Edmunds
   - 11 GCSEs, A-C
