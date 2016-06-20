@@ -29,7 +29,7 @@ Having used a multitude of technologies to create technical documentation, I hav
 
 - Learnt to code over 12 weeks
 - Dedicated to Test Driven Development, Behaviour Driven Development, Object Orientated Programing.
-- Wrote my experiences in this blog: www.medium.com/@harxy
+- Wrote my experiences in a light-hearted way via this blog: www.medium.com/@harxy
 
 #### University of East Anglia (2003 to September 2006)
 
@@ -58,3 +58,6 @@ Having used a multitude of technologies to create technical documentation, I hav
 
 ##### Sepura (September 2007 - September 2009)
   Technical Helpdesk Engineer
+  
+## Personal
+  Runner, Squash and Cricket player, lover of games in most forms, wannabe productivity-app developer, occasional beer drinker.
