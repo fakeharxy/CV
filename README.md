@@ -15,7 +15,7 @@ Both in a team, using Jira in an Agile environment, and working solo, including 
 
 Having used a multitude of technologies to create technical documentation, I have somehow acquired a genuine interest in learning new ways to deliver help content:
 
-- Madcap Flare, in which I am certified.
+- Madcap Flare, in which I am certified, focusing on content reuse for multiple outputs using single-sourcing, context-sensitive help and variables.
 - Also familiar with Adobe Robohelp, a Help Authoring Tool similar to Flare.
 - HTML solutions including [FlatDoc](http://ricostacruz.com/flatdoc/) and [Fixie Docs](http://philips.github.io/fixiedocs/).
 - Backend solutions like Jekyll and XML using DITA.
