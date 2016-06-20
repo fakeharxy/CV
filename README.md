@@ -6,7 +6,7 @@ Technical Writer and part-time coder. 7 years experience writing customer-facing
 
 #### Technical Writing
 
-Both in a team, using Jira in an Agile environment, and working solo, including owning my own company for contracting purposes. Spoke to Stakeholders, did usability testing, liased with developers about features, and completed release notes and all documentation for several softawre products.
+Both in a team, using Jira in an Agile environment, and working solo, including owning my own company for contracting purposes. Communicated with Stakeholders, ran usability testing, liased with developers about features, and completed release notes and all documentation for many software products.
 
 - http://www.netbiscuits.com/knowledge-base/
 - The above documentation was created in Wordpress with DITA methodologies, as the sole technical author of Netbiscuits.
