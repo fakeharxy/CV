@@ -16,10 +16,11 @@ Both in a team, using Jira in an Agile environment, and working solo, including 
 Having used a multitude of technologies to create technical documentation, I have somehow acquired a genuine interest in learning new ways to deliver help content.
 
 - Madcap Flare, in which I am certified.
-- Created the Tag Worldwide help using Adobe Robohelp, which is a Help Authoring Tool similar to Flare
-- HTML solutions including FlatDoc and DreamWeaver
+- Also familiar with Adobe Robohelp, a Help Authoring Tool similar to Flare.
+- HTML solutions including FlatDoc and DreamWeaver.
 - Backend solutions like Jekyll and XML using DITA.
 - Recently, using Github pages and simple Markdown to create developer-facing Github Readmes.
+- Will use Vim whenever anyone lets me.
 
 #### 
 
