@@ -1,6 +1,6 @@
 ## Paul Harker
 
-Technical Writer and part-time coder. 7 years experience writing customer-facing software documentation and developer-facing API and integration guides, and now about a year coding in Ruby, Javascript, HTML and CSS.
+Technical Writer and part-time coder. Seven years experience writing customer-facing software documentation and developer-facing API and integration guides, and now about a year coding in Ruby, Javascript, HTML and CSS.
 
 ## Skills
 
