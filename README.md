@@ -13,13 +13,13 @@ Both in a team, using Jira in an Agile environment, and working solo, including 
 
 #### Technical Writing Technologies
 
-Having used a multitude of technologies to create technical documentation, I have somehow acquired a genuine interest in learning new ways to deliver help content.
+Having used a multitude of technologies to create technical documentation, I have somehow acquired a genuine interest in learning new ways to deliver help content:
 
 - Madcap Flare, in which I am certified.
 - Also familiar with Adobe Robohelp, a Help Authoring Tool similar to Flare.
-- HTML solutions including FlatDoc and DreamWeaver.
+- HTML solutions including [FlatDoc](http://ricostacruz.com/flatdoc/) and [Fixie Docs](http://philips.github.io/fixiedocs/).
 - Backend solutions like Jekyll and XML using DITA.
-- Recently, using Github pages and simple Markdown to create developer-facing Github read-mes.
+- Recently, using Github pages and simple Markdown to create developer-facing Github readmes.
 - Will use Vim whenever anyone lets me.
 
 #### 
