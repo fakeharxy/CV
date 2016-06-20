@@ -19,7 +19,7 @@ Having used a multitude of technologies to create technical documentation, I hav
 - Also familiar with Adobe Robohelp, a Help Authoring Tool similar to Flare.
 - HTML solutions including FlatDoc and DreamWeaver.
 - Backend solutions like Jekyll and XML using DITA.
-- Recently, using Github pages and simple Markdown to create developer-facing Github Readmes.
+- Recently, using Github pages and simple Markdown to create developer-facing Github read-mes.
 - Will use Vim whenever anyone lets me.
 
 #### 
