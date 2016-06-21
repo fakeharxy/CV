@@ -1,6 +1,12 @@
 ## Paul Harker
 
-Technical Writer and part-time coder. Seven years experience writing customer-facing software documentation and developer-facing API and integration guides, and now about a year coding in Ruby, Javascript, HTML and CSS.
+Technical Writer and part-time coder. Seven years experience writing customer-facing software documentation and developer-facing API and integration guides, and now about a year coding in Ruby, Rails, Javascript, HTML and CSS.
+
+## Achievements
+
+- Created, from scratch, many help systems using a variety of Technical Writing packages.
+- Been part of teams that have completely redesigned existing help systems to focus on user-engagement, multiple outputs or converting to DITA methodologies.
+- Completed [Makers Academy](www.makersacademy.com), an intensive 12 week coding course that allows people without a coding background get to the stage where they can test-drive the development of web apps. 
 
 ## Skills
 
@@ -18,9 +24,17 @@ Having used a multitude of technologies to create technical documentation, I hav
 - Madcap Flare, in which I am certified, focusing on content reuse for multiple outputs using single-sourcing, context-sensitive help and variables.
 - Also proficient in Adobe Robohelp, a Help Authoring Tool similar to Flare.
 - HTML solutions including [FlatDoc](http://ricostacruz.com/flatdoc/) and [Fixie Docs](http://philips.github.io/fixiedocs/).
-- Backend solutions like Jekyll and XML using DITA.
-- Recently, using Github pages and simple Markdown to create developer-facing Github readmes.
+- Backend CMS solutions like Jekyll, Wordpress or XSL/XML using DITA.
+- Recently, using Github pages and simple Markdown to create developer-facing Github readmes (like this one!).
 - Will use Vim whenever anyone lets me.
+
+#### Coding
+
+- Ruby
+- Rails
+- Javascipt
+- HTML/CSS
+- Familiar with React.js and Angular.js
 
 #### 
 
