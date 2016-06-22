@@ -64,7 +64,7 @@ Having used a multitude of technologies to create technical documentation, I hav
 ##### Map of Medicine (Client of Platform Writing) (January 2012 - December 2012)
   Consultant Technical Writer
 
-##### Tag Worldwide (Janurary 2011 - 2012)
+##### Tag Worldwide (January 2011 - 2012)
   Solo Technical Writer
 
 ##### Experian QAS (September 2009 - January 2011)
