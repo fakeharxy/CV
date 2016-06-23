@@ -15,7 +15,7 @@ Technical Writer and part-time coder. Seven years experience writing customer-fa
 
 Both in a team, using Jira in an Agile environment, and working solo, including owning my own company for contracting purposes. Communicated with stakeholders, ran usability testing, liased with developers about features, and completed release notes and all documentation for many software products.
 
-- Created [documentation in Wordpress](http://www.netbiscuits.com/knowledge-base/) with DITA methodologies, as the sole technical author of Netbiscuits, a mobile anaylytics company.
+- Created [documentation in Wordpress](http://www.netbiscuits.com/knowledge-base/) with DITA methodologies, as the sole technical author of Netbiscuits, a mobile analytics company.
 
 #### Technical Writing Technologies
 
