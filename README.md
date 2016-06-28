@@ -60,7 +60,7 @@ Having used a multitude of technologies to create technical documentation, I hav
 ##### Netbiscuits (September 2013 to June 2015)    
   **Sole Technical Writer**
   - Sole Technical Writer working between England and developers in Germany.
-  - Balanced product documentation encompassing marketing-related material and technical implemetation guides.
+  - Balanced product documentation encompassing marketing-related material and technical implementation guides.
   - Moved entire knowledge base from locally hosted wiki to Wordpress.
   - Used DITA, XML stylesheets and git version control.
 
