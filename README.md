@@ -26,6 +26,7 @@ Having used a multitude of technologies to create technical documentation, I hav
 - HTML solutions including [FlatDoc](http://ricostacruz.com/flatdoc/) and [Fixie Docs](http://philips.github.io/fixiedocs/).
 - Backend CMS solutions like Jekyll, Wordpress or XSL/XML using DITA.
 - Recently, using Github pages and simple Markdown to create developer-facing Github readmes (like this one!).
+- Very familiar with Git and other version control systems.
 - Will use Vim whenever anyone lets me.
 
 #### Coding
@@ -57,22 +58,31 @@ Having used a multitude of technologies to create technical documentation, I hav
 ## Experience
 
 ##### Netbiscuits (September 2013 to June 2015)    
-  Technical Writer
+  **Sole Technical Writer**
+  - Sole Technical Writer working between England and developers in Germany.
+  - Balanced product documentation encompassing marketing-related material and technical implemetation guides.
+  - Moved entire knowledge base from locally hosted wiki to Wordpress.
+  - Used DITA, XML stylesheets and git version control.
 
 ##### Perform Media Group (December 2012 to September 2013)   
-  Technical Writer
+  **Sole Technical Writer**
+  - Created the CMS HTML help guide from scratch, now used as the sole documentation for the product worldwide.
+  - Created searchable HTML API documentation for the Perform Group API.
+  - Conducted training for publishing/writing teams of the CMS system.
+  - Conducted usability studies for the CRM system before it was launched.
 
 ##### Map of Medicine (Client of Platform Writing) (January 2012 - December 2012)
-  Consultant Technical Writer
+  **Consultant Technical Writer**
+  - Contract technical author documenting user-facing Medicinal Workflow software.
 
 ##### Tag Worldwide (January 2011 - 2012)
-  Solo Technical Writer
+  **Technical Writer**
 
 ##### Experian QAS (September 2009 - January 2011)
-  Technical Writer as part of a large team
+  **Technical Writer as part of a large team**
 
 ##### Sepura (September 2007 - September 2009)
-  Technical Helpdesk Engineer
+  **Technical Helpdesk Engineer**
   
 ## Personal
   Runner, Squash and Cricket player, lover of games in most forms, wannabe productivity-app developer, occasional beer drinker.
