@@ -76,13 +76,13 @@ Having used a multitude of technologies to create technical documentation, I hav
   - Contract technical author documenting user-facing Medicinal Workflow software.
 
 ##### Tag Worldwide (January 2011 - 2012)
-  **Technical Writer**
+  Technical Writer
 
 ##### Experian QAS (September 2009 - January 2011)
-  **Technical Writer as part of a large team**
+  Technical Writer as part of a large team
 
 ##### Sepura (September 2007 - September 2009)
-  **Technical Helpdesk Engineer**
+  Technical Helpdesk Engineer
   
 ## Personal
   Runner, Squash and Cricket player, lover of games in most forms, wannabe productivity-app developer, occasional beer drinker.
