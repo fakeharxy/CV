@@ -6,7 +6,7 @@ Technical Writer and part-time coder. Seven years experience writing customer-fa
 
 - Created, from scratch, many help systems using a variety of Technical Writing packages.
 - Been part of teams that have completely redesigned existing help systems to focus on user-engagement, multiple outputs or converting to DITA methodologies.
-- Completed [Makers Academy](http://www.makersacademy.com), an intensive 12 week coding course that allows people without a coding background get to the stage where they can test-drive the development of web apps. 
+- Completed [Makers Academy](http://www.makersacademy.com), an intensive 12 week coding course that allows people without a coding background to get to the stage where they can test-drive the development of web apps. 
 - Code Club: having completed the course above, I was utilised by North Highland to run monthly code meetups for non-technical staff, to give them insight into their developers' workflow.
 
 ## Skills
