@@ -5,7 +5,7 @@ Technical Writer, Help-System Designer and part-time coder. Eight years experien
 ## Achievements
 
 - Created, from scratch, many help systems using a variety of Technical Writing packages.
-- Written many, many technical Campaign Briefs, Doc Specs, API Guides, Help Systems/Servers, HTML helps etc. etc.
+- Written many, many technical User guides, Campaign Briefs, Doc Specs, API Guides, Help Systems/Servers, HTML helps etc. etc.
 - Been part of teams that have completely redesigned existing help systems to focus on user-engagement, multiple outputs or converting to DITA methodologies.
 - Completed [Makers Academy](http://www.makersacademy.com), an intensive 12 week coding course that allows people without a coding background to get to the stage where they can test-drive the development of web apps. 
 - Code Club: having completed the course above, I ran a monthly code meetups for non-technical staff at North Highland, providing insight into their developers' workflow.
