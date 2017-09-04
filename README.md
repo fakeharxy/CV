@@ -1,10 +1,11 @@
 ## Paul Harker
 
-Technical Writer and part-time coder. Seven years experience writing customer-facing software documentation and developer-facing API and integration guides, and now about a year coding in Ruby, Rails, Javascript, HTML and CSS.
+Technical Writer, Help-System Designer and part-time coder. Eight years experience writing customer-facing software documentation and developer-facing API / integration guides, and now about a year coding with Ruby, Rails, Javascript, HTML and CSS, with a little bit of React around the edges.
 
 ## Achievements
 
 - Created, from scratch, many help systems using a variety of Technical Writing packages.
+- Written many, many technical Campaign Briefs, Doc Specs, API Guides, Help Systems/Servers, HTML helps etc. etc.
 - Been part of teams that have completely redesigned existing help systems to focus on user-engagement, multiple outputs or converting to DITA methodologies.
 - Completed [Makers Academy](http://www.makersacademy.com), an intensive 12 week coding course that allows people without a coding background to get to the stage where they can test-drive the development of web apps. 
 - Code Club: having completed the course above, I was utilised by North Highland to run monthly code meetups for non-technical staff, to give them insight into their developers' workflow.
@@ -13,7 +14,7 @@ Technical Writer and part-time coder. Seven years experience writing customer-fa
 
 #### Technical Writing
 
-Both in a team, using Jira in an Agile environment, and working solo, including owning my own company for contracting purposes. Communicated with stakeholders, ran usability testing, liased with developers about features, and completed release notes and all documentation for many software products.
+Both in a team, using Jira in an Agile environment, and working solo, including owning my own LTD for contracting purposes. Communicated with stakeholders, ran usability testing, liased with developers about features, and completed release notes and all documentation for many software products.
 
 - Created [documentation in Wordpress](http://www.netbiscuits.com/knowledge-base/) with DITA methodologies, as the sole technical author of Netbiscuits, a mobile analytics company.
 
@@ -35,7 +36,7 @@ Having used a multitude of technologies to create technical documentation, I hav
 - Rails
 - Javascipt
 - HTML/CSS
-- Familiar with React.js and Angular.js
+- Familiar with React.js
 
 #### 
 
@@ -57,6 +58,19 @@ Having used a multitude of technologies to create technical documentation, I hav
 
 ## Experience
 
+##### Talent Point (August 2016 - Present)
+  **Technical Communications Manager**
+  - Client-facing / relationship building.
+  - Creating Technical Campaign briefs based on client requirements and skills availability in the market.
+  - Web Development (building apps as required / helping with website changes etc).
+  - Helping with process/kanban etc.
+
+##### Cloud Credo/Pivotal (October 2015 - June 2016)
+  **Associate Software Engineer**
+  - Junior Ruby/Rails developer.
+  - Worked in XP environment, Agile++
+  - Exclusively pair-programming, TDD, CI/CD.
+
 ##### Netbiscuits (September 2013 to June 2015)    
   **Sole Technical Writer**
   - Sole Technical Writer working between England and developers in Germany.
@@ -75,10 +89,7 @@ Having used a multitude of technologies to create technical documentation, I hav
   **Consultant Technical Writer**
   - Contract technical author documenting user-facing Medicinal Workflow software.
 
-##### Tag Worldwide (January 2011 - 2012)
-  Technical Writer
-
-##### Experian QAS (September 2009 - January 2011)
+##### Experian QAS (September 2009 - January 2012)
   Technical Writer as part of a large team
 
 ##### Sepura (September 2007 - September 2009)
