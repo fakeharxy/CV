@@ -46,7 +46,7 @@ Having used a multitude of technologies to create technical documentation, I hav
 
 - Learnt to code over 12 weeks
 - Dedicated to Test Driven Development, Behaviour Driven Development, Object Orientated Programing.
-- Wrote my experiences in a light-hearted way via this blog: www.medium.com/@harxy
+- Wrote about my experiences in a light-hearted way via this blog: www.medium.com/@harxy
 
 #### University of East Anglia (2003 to September 2006)
 
