@@ -1,6 +1,6 @@
 ## Paul Harker
 
-Technical Writer, Help-System Designer and part-time coder. Eight years experience writing customer-facing software documentation and developer-facing API / integration guides, and now about a year coding with Ruby, Rails, JavaScript, HTML and CSS, with a little bit of React around the edges.
+Technical Writer, Help-System Designer and part-time coder. Eight years' experience writing customer-facing software documentation and developer-facing API / integration guides, and now about a year coding with Ruby, Rails, JavaScript, HTML and CSS, with a little bit of React around the edges.
 
 ## Achievements
 
