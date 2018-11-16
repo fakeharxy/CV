@@ -1,9 +1,11 @@
 ## Paul Harker
 
-Technical Writer, Help-System Designer and part-time coder. Eight years' experience writing customer-facing software documentation and developer-facing API / integration guides, and now about a year coding with Ruby, Rails, JavaScript, HTML and CSS, with a little bit of React around the edges.
+Technical Writer, Help-System Designer and Ruby-on-Rails Web Developer. Eight years' experience writing customer-facing software documentation and developer-facing API / integration guides, and now two years coding with Ruby, Rails, JavaScript, HTML and CSS, and a touch of React around the edges.
 
 ## Achievements
 
+- built the back-end to two separate internal systems, and the front-end to one.
+- this was done with TDD (most of the time).
 - Created, from scratch, many help systems using a variety of Technical Writing packages.
 - Written many, many technical User Guides, Campaign Briefs, Doc Specs, API Guides, Help Systems/Servers, HTML helps etc. etc.
 - Been part of teams that have completely redesigned existing help systems to focus on user-engagement, multiple outputs or converting to DITA methodologies.
@@ -11,6 +13,14 @@ Technical Writer, Help-System Designer and part-time coder. Eight years' experie
 - Code Club: having completed the course above, I ran monthly code meetups for non-technical staff at North Highland, providing insight into their developers' workflow.
 
 ## Skills
+
+#### Coding
+
+- Ruby
+- Rails (+ ActiveRecord etc.)
+- JavaScript
+- HTML/CSS
+- Familiar with React.js
 
 #### Technical Writing
 
@@ -29,14 +39,6 @@ Having used a multitude of technologies to create technical documentation, I hav
 - Recently, using Github pages and simple Markdown to create developer-facing Github readmes (like this one!).
 - Very familiar with Git and other version control systems.
 - Will use Vim whenever anyone lets me.
-
-#### Coding
-
-- Ruby
-- Rails
-- JavaScript
-- HTML/CSS
-- Familiar with React.js
 
 #### 
 
