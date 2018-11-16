@@ -98,4 +98,4 @@ Having used a multitude of technologies to create technical documentation, I hav
   Technical Helpdesk Engineer
   
 ## Personal
-  Runner, Squash and Cricket player, lover of games in most forms, wannabe productivity-app developer, occasional beer drinker.
+  Runner, Squash and Cricket player, lover of games in most forms, wannabe productivity-app developer, write less than I'd like, occasional beer drinker.
