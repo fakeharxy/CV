@@ -4,22 +4,27 @@ Technical Writer, Help-System Designer and Ruby-on-Rails Web Developer. Eight ye
 
 ## Achievements
 
-- built the back-end to two separate internal systems, and the front-end to one.
-- this was done with TDD (most of the time).
+- Built the back-end to three separate internal systems, and the front-end to one.
+- Create, from scratch, many Ruby on Rails applications, both as side projects and for commercial use.
+- One internal app in particular is in near constant use, by 40 employees every day.
+- This was done with TDD (most of the time).
 - Created, from scratch, many help systems using a variety of Technical Writing packages.
 - Written many, many technical User Guides, Campaign Briefs, Doc Specs, API Guides, Help Systems/Servers, HTML helps etc. etc.
 - Been part of teams that have completely redesigned existing help systems to focus on user-engagement, multiple outputs or converting to DITA methodologies.
 - Completed [Makers Academy](http://www.makersacademy.com), an intensive 12 week coding course that allows people without a coding background to get to the stage where they can test-drive the development of web apps. 
-- Code Club: having completed the course above, I ran monthly code meetups for non-technical staff at North Highland, providing insight into their developers' workflow.
+- Code Club: having completed the course above, I ran monthly code meetups for non-technical staff at North Highland, and Talent Point, providing insight into their developers' workflow and a basis in JavaScript and Rails.
 
 ## Skills
 
 #### Coding
 
 - Ruby
-- Rails (+ ActiveRecord etc.)
+- Rails (+ Active Record, Active Cable etc.)
 - JavaScript
+- BEM
 - HTML/CSS
+- Heroku
+- Vim
 - Familiar with React.js
 
 #### Technical Writing
