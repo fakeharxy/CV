@@ -66,11 +66,11 @@ Having used a multitude of technologies to create technical documentation, I hav
 ## Experience
 
 ##### Talent Point (August 2016 - Present)
-  **Technical Communications Manager**
+  **Technical Communications Manager and Ruby Developer**
   - Client-facing / relationship building.
   - Creating Technical Campaign briefs based on client requirements and skills availability in the market.
-  - Web Development (building apps as required / helping with website changes etc).
-  - Helping with process/kanban etc.
+  - Web Development and App building (building apps as required / helping with website changes etc).
+  - Helping with processes/kanban etc.
 
 ##### Cloud Credo/Pivotal (October 2015 - June 2016)
   **Associate Software Engineer**
