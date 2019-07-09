@@ -8,6 +8,7 @@ Technical Writer, Help-System Designer and Ruby-on-Rails Web Developer. Eight ye
 - Create, from scratch, many Ruby on Rails applications, both as side projects and for commercial use.
 - One internal app in particular is in near constant use, by 40 employees every day.
 - Understanding and use of TDD using RSpec.
+- Comfortable in the terminal and using Vim.
 - Created, from scratch, many help systems using a variety of Technical Writing packages.
 - Written many, many technical User Guides, Campaign Briefs, Doc Specs, API Guides, Help Systems/Servers, HTML helps etc. etc.
 - Been part of teams that have completely redesigned existing help systems to focus on user-engagement, multiple outputs or converting to DITA methodologies.
