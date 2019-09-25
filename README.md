@@ -20,7 +20,7 @@ Technical Writer, Help-System Designer and Ruby-on-Rails Web Developer. Eight ye
 #### Coding
 
 - Ruby
-- Rails (+ Active Record, Active Cable etc.)
+- Rails (+ Active Record, ActionCable etc.)
 - JavaScript
 - BEM
 - HTML/CSS
