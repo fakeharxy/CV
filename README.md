@@ -5,7 +5,7 @@ Technical Writer, Help-System Designer and Ruby-on-Rails Web Developer. Eight ye
 ## Achievements
 
 - Built the back-end to three separate internal systems, and the front-end to one.
-- Create, from scratch, many Ruby on Rails applications, both as side projects and for commercial use.
+- Created, from scratch, many Ruby on Rails applications, both as side projects and for internal company use.
 - One internal app in particular is in near constant use, by 40 employees every day.
 - Understanding and use of TDD using RSpec.
 - Comfortable in the terminal and using Vim.
